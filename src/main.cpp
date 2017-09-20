@@ -6,7 +6,7 @@ using namespace std;
 
 //========================================================================
 int main( ){
-	ofSetupOpenGL(1024,1024,OF_WINDOW);			// <-------- setup the GL context
+	ofSetupOpenGL(1024,1048,OF_WINDOW);			// <-------- setup the GL context
 	
 	cout << "Hello from main" << endl;
 	// this kicks off the running of my app
